@@ -1,1 +1,1 @@
-#Clasificación de leche y un modelo utilizando regresión lineal
+Clasificación de leche y un modelo utilizando regresión lineal
